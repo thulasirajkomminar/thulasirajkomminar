@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋, I'm Thulasiraj
 
-<!--
-**thulasirajkomminar/thulasirajkomminar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me
 
-Here are some ideas to get you started:
+- 💻 Data Platform Engineer at [Schuberg Philis](https://schubergphilis.com/en)
+- 🌱 I'm currently learning ML, AI, & <img width="26px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ⚡ Connect with me
+- [LinkedIn](https://www.linkedin.com/in/thulasirajkomminar)
+ 
+#### Languages and Tools
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/>
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"/>
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"/>
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+
+<br /><br />
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thulasirajkomminar&show_icons=true&include_all_commits=true&theme=default&hide_border=true&count_private=true" alt="Thulasiraj's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulasirajkomminar&layout=compact&theme=default&hide_border=true&count_private=true" /></a> |
+| ------------- | ------------- |
