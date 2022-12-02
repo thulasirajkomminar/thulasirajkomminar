@@ -6,8 +6,8 @@
 - 🌱 I'm currently learning ML, AI, & <img width="26px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png"/> 
 
 #### ⚡ Connect with me
-- [LinkedIn](https://www.linkedin.com/in/thulasirajkomminar)
 - [Blog](https://thulasirajkomminar.com/)
+- [LinkedIn](https://www.linkedin.com/in/thulasirajkomminar)
  
 #### Languages and Tools
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/>
