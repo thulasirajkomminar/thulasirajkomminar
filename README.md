@@ -27,13 +27,13 @@
 #### My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://thulasirajkomminar.com/lake-formation-cross-account-access-using-terraform" title="Lake Formation cross-account access using Terraform"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687858578503/cff47c52-9795-4906-a513-3e912086282d.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Lake Formation cross-account access using Terraform" width="250px" align="left" /></a>
-<a href="https://thulasirajkomminar.com/lake-formation-cross-account-access-using-terraform" title="Lake Formation cross-account access using Terraform"><strong>Lake Formation cross-account access using Terraform</strong></a>
+<a href="https://thulasirajkomminar.com/lake-formation-cross-account-access-using-terraform-e21279e30531" title="Lake Formation cross-account access using Terraform"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*KnAd2D3QiI95BdZtNMnPQw.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Lake Formation cross-account access using Terraform" width="250px" align="left" /></a>
+<a href="https://thulasirajkomminar.com/lake-formation-cross-account-access-using-terraform-e21279e30531" title="Lake Formation cross-account access using Terraform"><strong>Lake Formation cross-account access using Terraform</strong></a>
 <br/> In this guide, we will discuss the consumption cross-account access, enable cross-account Lake Formation access and use a lambda in Account-Target to execute a simple Athena query to access the data from Account-Source.
 </p> <br/> <br/>
 
 <p align="left">
-<a href="https://thulasirajkomminar.com/redshift-federated-query-with-auroramysql" title="Redshift federated query with Aurora(MySQL)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687858470578/ced256db-08d9-47b3-8f37-985090cb679c.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Redshift federated query with Aurora(MySQL)" width="250px" align="left" /></a>
-<a href="https://thulasirajkomminar.com/redshift-federated-query-with-auroramysql" title="Redshift federated query with Aurora(MySQL)"><strong>Redshift federated query with Aurora(MySQL)</strong></a>
+<a href="https://thulasirajkomminar.com/redshift-federated-query-with-aurora-mysql-7de76dda8a1f" title="Redshift federated query with Aurora(MySQL)"><img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*voeNY_l40cQDKUgeBNPzYA.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Redshift federated query with Aurora(MySQL)" width="250px" align="left" /></a>
+<a href="https://thulasirajkomminar.com/redshift-federated-query-with-aurora-mysql-7de76dda8a1f" title="Redshift federated query with Aurora(MySQL)"><strong>Redshift federated query with Aurora(MySQL)</strong></a>
 <br/> Redshift federated query lets you query and analyse data across multiple operational databases directly. In this blog I have explained how to setup Redshift to query across multiple Aurora instances cross-account. </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
