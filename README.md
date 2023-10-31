@@ -26,12 +26,12 @@
 
 #### My Latest Blog Posts
 <p align="left">
-<a href="https://thulasirajkomminar.com/what-is-hashicorp-terraform-42d419a61cb9" title="What is HashiCorp Terraform?"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*L2b3v0kFfopd-Tfk.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="What is HashiCorp Terraform?" width="250px" align="left" /></a>
-<a href="https://thulasirajkomminar.com/what-is-hashicorp-terraform-42d419a61cb9" title="What is HashiCorp Terraform?"><strong>What is HashiCorp Terraform?</strong></a>
-<br/> In this blog I will explain what is Terraform and some of its common terms. I will also list some good to follow standards when you start using Terraform. </p> <br/> <br/> <br/> <br/>
+<a href="https://thulasirajkomminar.com/efficient-continuous-deployment-with-github-environments-and-aws-codebuild-9086aef7d913" title="Efficient Continuous Deployment with GitHub Environments and AWS CodeBuild"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*KnAd2D3QiI95BdZtNMnPQw.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Efficient Continuous Deployment with GitHub Environments and AWS CodeBuild" width="250px" align="left" /></a>
+<a href="https://thulasirajkomminar.com/efficient-continuous-deployment-with-github-environments-and-aws-codebuild-9086aef7d913" title="Efficient Continuous Deployment with GitHub Environments and AWS CodeBuild"><strong>Efficient Continuous Deployment with GitHub Environments and AWS CodeBuild</strong></a>
+<br/> In this blog post, I’ll guide you through setting up a Continuous Deployment pipeline using GitHub Actions and environments, focusing on both development and production stages.
+</p> <br/> <br/> <br/> <br/>
 
 <p align="left">
-<a href="https://thulasirajkomminar.com/lake-formation-cross-account-access-using-terraform-e21279e30531" title="Lake Formation cross-account access using Terraform"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*KnAd2D3QiI95BdZtNMnPQw.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Lake Formation cross-account access using Terraform" width="250px" align="left" /></a>
-<a href="https://thulasirajkomminar.com/lake-formation-cross-account-access-using-terraform-e21279e30531" title="Lake Formation cross-account access using Terraform"><strong>Lake Formation cross-account access using Terraform</strong></a>
-<br/> In this guide, we will discuss the consumption cross-account access, enable cross-account Lake Formation access and use a lambda in Account-Target to execute a simple Athena query to access the data from Account-Source.
-</p> <br/> <br/>
+<a href="https://thulasirajkomminar.com/what-is-hashicorp-terraform-42d419a61cb9" title="What is HashiCorp Terraform?"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*L2b3v0kFfopd-Tfk.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="What is HashiCorp Terraform?" width="250px" align="left" /></a>
+<a href="https://thulasirajkomminar.com/what-is-hashicorp-terraform-42d419a61cb9" title="What is HashiCorp Terraform?"><strong>What is HashiCorp Terraform?</strong></a>
+<br/> In this blog I will explain what is Terraform and some of its common terms. I will also list some good to follow standards when you start using Terraform. </p> <br/> <br/>
