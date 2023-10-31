@@ -26,7 +26,7 @@
 
 #### My Latest Blog Posts
 <p align="left">
-<a href="https://thulasirajkomminar.com/efficient-continuous-deployment-with-github-environments-and-aws-codebuild-9086aef7d913" title="Efficient Continuous Deployment with GitHub Environments and AWS CodeBuild"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*KnAd2D3QiI95BdZtNMnPQw.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Efficient Continuous Deployment with GitHub Environments and AWS CodeBuild" width="250px" align="left" /></a>
+<a href="https://thulasirajkomminar.com/efficient-continuous-deployment-with-github-environments-and-aws-codebuild-9086aef7d913" title="Efficient Continuous Deployment with GitHub Environments and AWS CodeBuild"><img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*2EaA8lB_-7dygX5Ypa-asw.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Efficient Continuous Deployment with GitHub Environments and AWS CodeBuild" width="250px" align="left" /></a>
 <a href="https://thulasirajkomminar.com/efficient-continuous-deployment-with-github-environments-and-aws-codebuild-9086aef7d913" title="Efficient Continuous Deployment with GitHub Environments and AWS CodeBuild"><strong>Efficient Continuous Deployment with GitHub Environments and AWS CodeBuild</strong></a>
 <br/> In this blog post, I’ll guide you through setting up a Continuous Deployment pipeline using GitHub Actions and environments, focusing on both development and production stages.
 </p> <br/> <br/> <br/> <br/>
