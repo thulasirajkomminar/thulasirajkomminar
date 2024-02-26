@@ -22,8 +22,23 @@
 
 <br /><br />
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thulasirajkomminar&show_icons=true&include_all_commits=true&theme=default&hide_border=true&count_private=true" alt="Thulasiraj's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulasirajkomminar&layout=compact&theme=default&hide_border=true&count_private=true" /></a> |
+#### GitHub Stats
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thulasirajkomminar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thulasiraj's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulasirajkomminar&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=komminarlabs&repo=terraform-provider-influxdb&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=komminarlabs&repo=terraform-aws-sagemaker-studio&theme=buefy" />
+</a>
+
+<br />
+<br />
 
 #### My Latest Blog Posts
 <p align="left">
@@ -32,7 +47,7 @@
 <br/> In this blog, we’ll explore how to leverage Terraform for provisioning and managing resources within InfluxDB.
 </p>
 
-<br/> <br/> <br/> <br/>
+<br/> <br/>
 
 <p align="left">
 <a href="https://thulasirajkomminar.com/effortless-infrastructure-mastering-automated-deployments-with-terraform-and-github-actions-c98d057f1a08" title="Effortless Infrastructure: Mastering Automated Deployments with Terraform and GitHub Actions"><img src="https://miro.medium.com/v2/resize:fit:1102/format:webp/1*CFyaoqhfbnwDNHlK4iDzrg.png" alt="Effortless Infrastructure: Mastering Automated Deployments with Terraform and GitHub Actions" width="250px" align="left" /></a>
