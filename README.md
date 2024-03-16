@@ -43,7 +43,7 @@
 #### My Latest Blog Posts
 
 <p align="left">
-<a href="https://thulasirajkomminar.com/how-to-bridge-a-terraform-provider-to-pulumi-623db829f52f" title="How to bridge a Terraform Provider to Pulumi"><img src="https://miro.medium.com/v2/resize:fit:1102/format:webp/1*CFyaoqhfbnwDNHlK4iDzrg.png" alt="How to bridge a Terraform Provider to Pulumi" width="250px" align="left" /></a>
+<a href="https://thulasirajkomminar.com/how-to-bridge-a-terraform-provider-to-pulumi-623db829f52f" title="How to bridge a Terraform Provider to Pulumi"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*S_2Md9h9VwF04yC1LIfGwQ.png" alt="How to bridge a Terraform Provider to Pulumi" width="250px" align="left" /></a>
 <a href="https://thulasirajkomminar.com/how-to-bridge-a-terraform-provider-to-pulumi-623db829f52f" title="How to bridge a Terraform Provider to Pulumi"><strong>How to bridge a Terraform Provider to Pulumi</strong></a>
 <br/> In this blog post, we’ll delve into the process of creating a Pulumi Resource provider sourced from a Terraform Provider developed with the Terraform Plugin Framework. </p> 
 
