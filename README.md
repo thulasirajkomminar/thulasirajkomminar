@@ -3,7 +3,6 @@
 #### About me
 
 - 💻 Data Platform Engineer at [Schuberg Philis](https://schubergphilis.com/en)
-- 🌱 I'm currently learning ML, AI, & <img width="26px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png"/> 
 
 #### ⚡ Connect with me
 - [Blog](https://thulasirajkomminar.com/)
