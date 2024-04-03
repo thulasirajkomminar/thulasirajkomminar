@@ -2,7 +2,8 @@
 
 #### About me
 
-- 💻 Data Platform Engineer at [Schuberg Philis](https://schubergphilis.com/en)
+- 🧑‍💻 Data Platform Engineer at [Schuberg Philis](https://schubergphilis.com/en)
+- 💻 Occasionally crafting Terraform & Pulumi providers at [Komminar Labs](https://github.com/komminarlabs)
 
 #### ⚡ Connect with me
 - [Blog](https://thulasirajkomminar.com/)
@@ -10,13 +11,10 @@
 - [Twitter](https://twitter.com/TKomminar)
  
 #### Languages and Tools
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png"/>
+<img align="left" width="26px" src="https://static-00.iconduck.com/assets.00/file-type-terraform-icon-455x512-csyun60o.png"/>
+<img align="left" width="26px" src="https://i.pinimg.com/originals/f0/1f/69/f01f692c14ed47421cbc564ae4bf0ed3.png"/>
+<img align="left" width="26px" src="https://avatars.githubusercontent.com/u/21992475?s=48&v=4"/>
 
 
 <br /><br />
