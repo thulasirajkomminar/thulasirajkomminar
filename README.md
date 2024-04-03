@@ -13,6 +13,7 @@
 #### Languages and Tools
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png"/>
 <img align="left" width="26px" src="https://static-00.iconduck.com/assets.00/file-type-terraform-icon-455x512-csyun60o.png"/>
+<img align="left" width="26px" src="https://openautomationsoftware.com/wp-content/uploads/2021/11/blog_iiot.png"/>
 <img align="left" width="26px" src="https://i.pinimg.com/originals/f0/1f/69/f01f692c14ed47421cbc564ae4bf0ed3.png"/>
 <img align="left" width="26px" src="https://avatars.githubusercontent.com/u/21992475?s=48&v=4"/>
 
