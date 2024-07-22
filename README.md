@@ -3,7 +3,7 @@
 #### About me
 
 - 🧑‍💻 Data Platform Engineer at [Schuberg Philis](https://schubergphilis.com/en)
-- 💻 Occasionally crafting Terraform & Pulumi providers at [Komminar Labs](https://github.com/komminarlabs)
+- 💻 Occasionally building Terraform & Pulumi providers at [Komminar Labs](https://github.com/komminarlabs)
 
 #### ⚡ Connect with me
 - [Blog](https://thulasirajkomminar.com/)
