@@ -8,7 +8,7 @@
 #### ⚡ Connect with me
 - [Blog](https://thulasirajkomminar.com/)
 - [LinkedIn](https://www.linkedin.com/in/thulasirajkomminar)
-- [Twitter](https://twitter.com/TKomminar)
+- [X(formerly Twitter)](https://twitter.com/TKomminar)
  
 #### Languages and Tools
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png"/>
