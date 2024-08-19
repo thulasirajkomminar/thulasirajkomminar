@@ -23,8 +23,8 @@
 #### My Latest Blog Posts
 
 <p align="left">
-<a href="https://awstip.com/data-governance-on-aws-using-datazone-ae88c5460c5d" title="Data Governance on AWS using DataZone"><img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*4hrC1ymOejuOAWcLAL9p0w.png" alt="Data Governance on AWS using DataZone" width="250px" align="left" /></a>
-<a href="https://awstip.com/data-governance-on-aws-using-datazone-ae88c5460c5d" title="Data Governance on AWS using DataZone"><strong>Data Governance on AWS using DataZone</strong></a>
+<a href="https://thulasirajkomminar.com/data-governance-on-aws-using-datazone-ae88c5460c5d" title="Data Governance on AWS using DataZone"><img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*4hrC1ymOejuOAWcLAL9p0w.png" alt="Data Governance on AWS using DataZone" width="250px" align="left" /></a>
+<a href="https://thulasirajkomminar.com/data-governance-on-aws-using-datazone-ae88c5460c5d" title="Data Governance on AWS using DataZone"><strong>Data Governance on AWS using DataZone</strong></a>
 <br/> In this blog, we will provide a brief introduction to data governance and show how to implement it on AWS using DataZone. </p>
 
 <br/> <br/>
