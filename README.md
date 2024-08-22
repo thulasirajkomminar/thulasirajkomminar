@@ -11,7 +11,7 @@
 - [X(formerly Twitter)](https://twitter.com/TKomminar)
  
 #### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,go,grafana,py,github,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,go,grafana,py,githubactions)](https://skillicons.dev)
 
 #### My Latest Blog Posts
 
