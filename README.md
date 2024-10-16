@@ -26,5 +26,3 @@
 <a href="https://thulasirajkomminar.com/how-to-migrate-amazon-redshift-to-a-different-account-and-region-step-by-step-guide-ba8f56f28911" title="How to Migrate Amazon Redshift to a Different Account and Region: Step-by-Step Guide"><img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*2bxIHadaUqNZIEVYATfnQg.png" alt="How to Migrate Amazon Redshift to a Different Account and Region: Step-by-Step Guide" width="250px" align="left" /></a>
 <a href="https://thulasirajkomminar.com/how-to-migrate-amazon-redshift-to-a-different-account-and-region-step-by-step-guide-ba8f56f28911" title="How to Migrate Amazon Redshift to a Different Account and Region: Step-by-Step Guide"><strong>How to Migrate Amazon Redshift to a Different Account and Region: Step-by-Step Guide</strong></a>
 <br/> Moving Amazon Redshift to a new account and region might seem difficult, but it doesn’t have to be. You might need to follow regulations or reorganize your teams. In this guide, we will show you step by step how to move your Redshift data to a different account and region. </p> 
-
-<br/> <br/>
