@@ -3,6 +3,7 @@
 #### About me
 
 - 🧑‍💻 Data Platform Engineer at [Schuberg Philis](https://schubergphilis.com/en)
+- 💻 AWS Community Builder
 - 🚀 Occasionally building Terraform & Pulumi providers at [Komminar Labs](https://github.com/komminarlabs)
 
 #### ⚡ Connect with me
