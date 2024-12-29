@@ -14,7 +14,7 @@
 - [Threads](https://www.threads.net/@thulasirajkomminar)
  
 #### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,go,grafana,py,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,go,grafana,py,githubactions,zig)](https://skillicons.dev)
 
 #### My Latest Blog Posts
 
