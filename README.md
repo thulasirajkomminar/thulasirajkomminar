@@ -11,7 +11,6 @@
 - [LinkedIn](https://www.linkedin.com/in/thulasirajkomminar)
 - [𝕏(formerly Twitter)](https://twitter.com/TKomminar)
 - [Bluesky](https://bsky.app/profile/thulasirajkomminar.com)
-- [Threads](https://www.threads.net/@thulasirajkomminar)
  
 #### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=aws,terraform,go,grafana,py,githubactions,zig)](https://skillicons.dev)
