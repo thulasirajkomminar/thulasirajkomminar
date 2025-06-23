@@ -13,7 +13,7 @@
 - [Bluesky](https://bsky.app/profile/thulasirajkomminar.com)
  
 #### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,go,grafana,py,githubactions)](https://skillicons.dev)
+![My Skills](https://skills.syvixor.com/api/icons?i=aws,terraform,githubactions,datadog,grafana,go,py,zig,iceberg)
 
 #### My Latest Blog Posts
 
