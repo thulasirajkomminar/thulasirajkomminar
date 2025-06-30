@@ -7,10 +7,12 @@
 - 🚀 Occasionally building Terraform providers at [Komminar Labs](https://github.com/komminarlabs)
 
 #### ⚡ Connect with me
-- [Blog](https://thulasirajkomminar.com/)
-- [LinkedIn](https://www.linkedin.com/in/thulasirajkomminar)
-- [𝕏(formerly Twitter)](https://twitter.com/TKomminar)
-- [Bluesky](https://bsky.app/profile/thulasirajkomminar.com)
+<span>
+  <a href="https://github.com/thulasirajkomminar"><img src="https://skills.syvixor.com/api/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/thulasirajkomminar/"><img src="https://skills.syvixor.com/api/icons?i=linkedin" /></a>
+  <a href="https://x.com/TKomminar"><img src="https://skills.syvixor.com/api/icons?i=x" /></a>
+  <a href="https://bsky.app/profile/thulasirajkomminar.com"><img src="https://skills.syvixor.com/api/icons?i=bluesky" /></a>
+</span>
  
 #### Languages and Tools
 ![My Skills](https://skills.syvixor.com/api/icons?i=aws,terraform,nomad,githubactions,datadog,grafana,litmus,kepware,influxdb,mqtt,nodered,go,py,zig,iceberg&perline=5)
