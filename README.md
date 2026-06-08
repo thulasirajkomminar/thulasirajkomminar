@@ -23,7 +23,7 @@
 <a href="https://www.thulasirajkomminar.com/from-zero-to-fargate-running-containerized-apps-with-aurora-on-aws/" title="Data Governance on AWS using DataZone"><strong>From Zero to Fargate: Running Containerized Apps with Aurora on AWS</strong></a>
 <br/> My team needed a simple on-call scheduler to manage who's on call, handle escalations, and send alerts without building something custom. After evaluating options we landed on GoAlert, an open-source on-call scheduling and alerting platform that does exactly what we needed, without the SaaS price tag. </p>
 
-<br/>
+<br/> <br/> 
 
 <p align="left">
 <a href="https://www.thulasirajkomminar.com/terraform-aws-provider-v6-redesigning-api-gateway-for-multi-team-ownership/" title="Terraform AWS Provider v6: Redesigning API Gateway for Multi-Team Ownership"><img src="https://www.thulasirajkomminar.com/images/15_terraform_aws_provider_v6_redesigning_api_gateway_for_multi_team_ownership/1.png" alt="Terraform AWS Provider v6: Redesigning API Gateway for Multi-Team Ownership" width="250px" align="left" /></a>
